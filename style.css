@@ -1,0 +1,27 @@
+#navbar {
+    display: flex;
+    justify-content: space-around;
+}
+div {
+    font-family: Helvetica;
+background: black;
+color:white ;
+font-size: 20px;
+padding: 5px;
+}
+.items:hover {
+    background-color: gray;
+    opacity: 0.5;
+    }
+ img{
+width:400px;
+height: 150px;
+    }
+    .E {
+flex-direction: row;
+align-items: flex-start;
+
+    }
+    .end {
+        display: flex;
+    }
